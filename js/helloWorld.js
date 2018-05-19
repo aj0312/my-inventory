@@ -4,5 +4,5 @@
  * and open the template in the editor.
  */
 
-
+alert("Message from local directory");
 console.log("Hello world");
