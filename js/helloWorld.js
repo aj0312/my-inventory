@@ -6,3 +6,5 @@
 
 alert("Message from local directory");
 console.log("Hello world");
+alert("Message from github");
+console.log("Hello world");
